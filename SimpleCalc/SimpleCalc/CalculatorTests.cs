@@ -10,5 +10,6 @@ namespace SimpleCalc
 	[TestFixture]
 	public class CalculatorTests
 	{
+       
 	}
 }
